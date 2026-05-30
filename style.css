@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial;background:#123;color:#fff}
+.hero{padding:30px;min-height:100vh;background:linear-gradient(#1b4332,#2d6a4f)}
+textarea{width:100%;height:180px} input,button{padding:12px;margin:6px}
+#race{padding:20px}.lane{height:60px;background:#6b4f31;margin:10px 0;position:relative;border-radius:12px}
+.runner{position:absolute;left:10px;top:10px;font-size:32px}
+#podium{padding:30px;text-align:center;font-size:24px}
